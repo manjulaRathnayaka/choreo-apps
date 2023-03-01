@@ -1,9 +1,0 @@
-[build-options]
-  observabilityIncluded = true
-
-[package]
-  distribution = "2201.3.1"
-  name = "test"
-  org = "testyasas"
-  version = "0.1.0"
-
